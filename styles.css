@@ -6,6 +6,7 @@
 .clearfont {
 font-family: 'Roboto', Veranda, sans-serif;
 font-size: 22px;
+font-color: Black;
 }
 .button {
     border: none;
@@ -38,8 +39,8 @@ font-size: 22px;
     -webkit-user-select: none;
     -moz-user-select: none;
     user-select: none;
-    
-            
+
+
 }
 .container input {
     position: absolute;
